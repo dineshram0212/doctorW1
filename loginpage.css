@@ -42,9 +42,11 @@ body{
 	width: 335px;
 	height: 350px;
 	fill: #4F4B63;
-	border-radius: 30px;
-	box-shadow: 0 0 5px #4B0082;
-	border-color:;
+	margin-right: 50px;
+	border-radius: 35px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: lightgray;
 	background-color:  #4F4B63;
 }
 #login{
@@ -113,7 +115,7 @@ body{
   	width:125px;
   	opacity: 80%;
   	border-style: none;
-  	border-radius: 10px;
+  	border-radius: 30px;
   	text-align: center;
   	outline: none;
   	color: lightgrey;
